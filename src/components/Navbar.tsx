@@ -9,7 +9,7 @@ const navLinks = [
   { name: "Vantedge ID", href: "#" },
   { name: "Governance", href: "#" },
   { name: "Infrastructure", href: "#" },
-  { name: "Documentation", href: "/animation" }
+  // { name: "Documentation", href: "/animation" }
 ];
 
 const Navbar = () => {
